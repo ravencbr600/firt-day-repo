@@ -1,1 +1,1 @@
-# firt-day-repo
+# first-day-repo
